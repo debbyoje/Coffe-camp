@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+}
+
+body {
+    /* max-width: 900px; */
+    /* max-height: 500px; */
+    background-image: url(IMAGES/coffeebeans.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    padding: 15px 30px;
+    line-height: 1.2;
+    display: block;
+}
+
+.color {
+    background-color: burlywood;
+    margin: 20px auto;
+    padding: 10px 30px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+}
+
+h1 {
+    font-size: 36px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 16px;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+img {
+    width: 25px;
+    margin: 15px auto;
+    display: block;
+    text-align: center;
+}
+
+a {
+    display: block;
+    text-align: center;
+    color: black;
+    padding-bottom: 8px;
+}
+
+hr {
+    border: 1px solid brown;
+    margin: 10px;
+}
+
+.est {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
